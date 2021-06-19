@@ -1,16 +1,19 @@
-### Hi there 👋
+# Estefany
+My personal repository
 
-<!--
-**estefany-kari/estefany-kari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Hi! Everyone I'm Estefany Canencia👋
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=estefany-kari.estefany-kari)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently study at [EPN](https://www.epn.edu.ec/) 
+
+I also interested in
+- HTML
+- CSS
+- Javascript
+
+
+ I'm working in a lot projects at EPN's Software Club
+ 
+ 
+<img width="30" height="30" src="https://avatars.githubusercontent.com/u/84605041?s=200&v=4">
